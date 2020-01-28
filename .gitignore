@@ -1,0 +1,5 @@
+.DS_Store
+.idea/
+static_volume/
+celerybeat.pid
+celerybeat-schedule
