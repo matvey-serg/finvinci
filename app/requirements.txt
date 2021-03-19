@@ -1,5 +1,5 @@
 Django==2.2.5
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 gunicorn==19.9.0
 celery==4.2.1
 kombu==4.2.0
